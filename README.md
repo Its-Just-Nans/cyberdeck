@@ -1,5 +1,7 @@
 # cyberdeck
 
+Read more at <https://n4n5.dev/articles/portable-pi-computer>
+
 ## LICENSE
 
 Files in [./inspiration](./inspiration) folder are not mine. They are from the internet and [most of them are credited](./inspiration/README.md).
